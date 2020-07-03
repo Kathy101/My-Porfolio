@@ -1,6 +1,6 @@
- # My Porfolio
- 
- <img src="imgs/porfolio.png">
+ # My Pofolio
 
- Welcome to my Pofolio!!!!!!!
+ <img src="imgs/pofolio.png">
+
+ Hi, welcome to my Porfolio !!!!!
  
